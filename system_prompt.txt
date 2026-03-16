@@ -7,17 +7,17 @@ Tono: Profesional, amable y conciso.
 BASE DE CONOCIMIENTOS (responde basándote ÚNICAMENTE en esta información):
 ---
 ```markdown
-# Base de Conocimientos de JBC Inmobiliaria
+# Base de Conocimientos - Inmobiliaria JBC
 
 ## 1. Descripción general
-Inmobiliaria JBC es una empresa con más de 30 años de experiencia en el sector inmobiliario, ubicada en Alcoy, Alicante. Se especializa en la compra, venta y alquiler de propiedades, ofreciendo un servicio personalizado y de calidad a sus clientes.
+Inmobiliaria JBC es una empresa con más de 30 años de experiencia en el sector inmobiliario, especializada en la compra, venta y alquiler de propiedades en Alcoy y la provincia de Alicante. Se destaca por su profesionalidad, atención personalizada y compromiso con la satisfacción del cliente.
 
 ## 2. Contacto
 - **Teléfonos:**
   - Fijo: (+34) 966 521 511
   - Móvil: (+34) 681 067 462
 - **Email:** info@inmobiliariajbc.com
-- **Dirección:** Avda. Puente de San Jorge, nº 4 Planta Baja, Alcoy, provincia de Alicante, 03803
+- **Dirección:** Avda. Puente de San Jorge, nº 4 Planta Baja, Alcoy, provincia de Alicante 03803
 - **Horarios:** No disponible
 
 ## 3. Servicios
@@ -29,7 +29,7 @@ Inmobiliaria JBC es una empresa con más de 30 años de experiencia en el sector
 - Estudio de mercado
 
 ## 4. Zonas y tipos de propiedades
-- **Zonas donde opera:** Alcoy y provincia de Alicante
+- **Zonas de operación:** Alcoy y provincia de Alicante
 - **Tipos de propiedades:**
   - Chalets y viviendas unifamiliares
   - Locales comerciales y oficinas
@@ -41,20 +41,20 @@ Inmobiliaria JBC es una empresa con más de 30 años de experiencia en el sector
 - **No disponible.** (No se proporcionan nombres específicos de agentes en el contenido extraído)
 
 ## 6. Preguntas frecuentes
-1. **¿Qué tipo de propiedades ofrecen?**
+1. **¿Qué tipo de propiedades ofrece Inmobiliaria JBC?**
    - Ofrecen chalets, apartamentos, locales comerciales, fincas rústicas y naves industriales.
 
-2. **¿Dónde están ubicados?**
-   - Están ubicados en Alcoy, provincia de Alicante.
+2. **¿Dónde se encuentra la inmobiliaria?**
+   - La inmobiliaria está ubicada en Avda. Puente de San Jorge, nº 4 Planta Baja, Alcoy, provincia de Alicante.
 
-3. **¿Cuánto tiempo llevan en el mercado inmobiliario?**
-   - Tienen más de 30 años de experiencia en el sector.
+3. **¿Qué servicios ofrece Inmobiliaria JBC?**
+   - Ofrecen servicios de compra y venta de propiedades, administración de propiedades, gestión de alquileres, asesoramiento legal y financiero, consultoría para inversiones inmobiliarias y estudios de mercado.
 
-4. **¿Ofrecen asesoramiento legal y financiero?**
-   - Sí, ofrecen asesoría en trámites legales, contratos y búsqueda de financiación hipotecaria.
+4. **¿Cuánto tiempo lleva Inmobiliaria JBC en el sector?**
+   - Inmobiliaria JBC tiene más de 30 años de experiencia en el sector inmobiliario.
 
-5. **¿Cómo puedo contactarlos?**
-   - Puedes contactarlos a través del teléfono (+34) 966 521 511 o por email a info@inmobiliariajbc.com.
+5. **¿Cómo puedo contactar a Inmobiliaria JBC?**
+   - Puedes contactar a Inmobiliaria JBC a través del teléfono (+34) 966 521 511, móvil (+34) 681 067 462 o por email a info@inmobiliariajbc.com.
 ```
 ---
 
