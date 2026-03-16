@@ -10,46 +10,51 @@ BASE DE CONOCIMIENTOS (responde basándote ÚNICAMENTE en esta información):
 # Base de Conocimientos de JBC Inmobiliaria
 
 ## 1. Descripción general
-JBC Inmobiliaria se especializa en la compra, venta y alquiler de propiedades en Alcoy, ofreciendo soluciones tanto para residentes como para estudiantes Erasmus. Su enfoque se centra en brindar asesoramiento y opciones adecuadas a las necesidades de sus clientes.
+Inmobiliaria JBC es una empresa con más de 30 años de experiencia en el sector inmobiliario, ubicada en Alcoy, Alicante. Se especializa en la compra, venta y alquiler de propiedades, ofreciendo un servicio personalizado y de calidad a sus clientes.
 
 ## 2. Contacto
-- **Teléfonos:** 966521511
-- **Email:** No disponible
-- **Dirección:** Calle Sant Francesc 56, Alcoy
+- **Teléfonos:**
+  - Fijo: (+34) 966 521 511
+  - Móvil: (+34) 681 067 462
+- **Email:** info@inmobiliariajbc.com
+- **Dirección:** Avda. Puente de San Jorge, nº 4 Planta Baja, Alcoy, provincia de Alicante, 03803
 - **Horarios:** No disponible
 
 ## 3. Servicios
-- Venta de viviendas
-- Alquiler de propiedades
-- Alojamiento para estudiantes Erasmus
-- Asesoramiento en operaciones inmobiliarias
+- Compra y venta de propiedades
+- Administración de propiedades
+- Gestión de alquileres
+- Asesoramiento legal y financiero
+- Consultoría para inversiones inmobiliarias
+- Estudio de mercado
 
 ## 4. Zonas y tipos de propiedades
-- **Zonas de operación:** Alcoy
+- **Zonas donde opera:** Alcoy y provincia de Alicante
 - **Tipos de propiedades:**
-  - Pisos
-  - Chalets
-  - Habitaciones para estudiantes
-  - Locales comerciales
+  - Chalets y viviendas unifamiliares
+  - Locales comerciales y oficinas
+  - Apartamentos modernos
+  - Fincas rústicas y terrenos
+  - Naves industriales
 
 ## 5. Equipo / Agentes
-- **Nombres y contactos:** No disponible
+- **No disponible.** (No se proporcionan nombres específicos de agentes en el contenido extraído)
 
 ## 6. Preguntas frecuentes
-1. **¿Es mejor comprar o alquilar una vivienda?**
-   - Depende de las circunstancias personales y financieras de cada individuo. Se recomienda asesorarse para tomar la mejor decisión.
+1. **¿Qué tipo de propiedades ofrecen?**
+   - Ofrecen chalets, apartamentos, locales comerciales, fincas rústicas y naves industriales.
 
-2. **¿Qué sucede si vendo mi vivienda habitual y compro otra?**
-   - Estarás exento de pagar impuestos por las ganancias patrimoniales si el dinero se destina a la compra de una nueva vivienda habitual, aunque otros impuestos locales pueden aplicarse.
+2. **¿Dónde están ubicados?**
+   - Están ubicados en Alcoy, provincia de Alicante.
 
-3. **¿Qué características tienen las habitaciones en alquiler para estudiantes Erasmus?**
-   - Las habitaciones están en apartamentos de tres habitaciones individuales, totalmente equipados, con conexión Wifi, calefacción y electrodomésticos en la cocina.
+3. **¿Cuánto tiempo llevan en el mercado inmobiliario?**
+   - Tienen más de 30 años de experiencia en el sector.
 
-4. **¿Dónde están ubicados los apartamentos para estudiantes Erasmus?**
-   - En la calle Sant Francesc 56, en pleno centro de Alcoy, a 250 metros de la EPSA de la Universidad Politécnica (UPV).
+4. **¿Ofrecen asesoramiento legal y financiero?**
+   - Sí, ofrecen asesoría en trámites legales, contratos y búsqueda de financiación hipotecaria.
 
-5. **¿Qué servicios hay cerca de los apartamentos para estudiantes?**
-   - Se encuentran cerca de servicios habituales como correos, supermercados, panaderías, farmacias y lugares de ocio como bares y pubs.
+5. **¿Cómo puedo contactarlos?**
+   - Puedes contactarlos a través del teléfono (+34) 966 521 511 o por email a info@inmobiliariajbc.com.
 ```
 ---
 
